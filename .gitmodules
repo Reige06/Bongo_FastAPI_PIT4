@@ -1,0 +1,6 @@
+[submodule "FastAPI_frontend"]
+	path = FastAPI_frontend
+	url = https://github.com/Reige06/FastAPI_frontend
+[submodule "FastAPI_backend"]
+	path = FastAPI_backend
+	url = https://github.com/Reige06/FastAPI_backend
