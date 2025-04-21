@@ -35,16 +35,18 @@ Backend (FastAPI):
 
 Base URL: https://fastapi-backend-f2k4.onrender.com/
 
-Method                                                        Description
-GET	https://fastapi-backend-f2k4.onrender.com/api/todos/	  Get all todos
-POST	https://fastapi-backend-f2k4.onrender.com/api/todos/	Create a new todo
-PATCH	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/	Update todo (status)
-PATCH	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/	Edit description
-DELETE	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/	Delete a todo
+Method
+
+
+1. GET	https://fastapi-backend-f2k4.onrender.com/api/todos/ Description: Get all todos
+2. POST	https://fastapi-backend-f2k4.onrender.com/api/todos/ Description: Create a new todo
+3. PATCH	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/ Description:Update todo (status)
+4. PATCH	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/ Description:Edit description
+5. DELETE	https://fastapi-backend-f2k4.onrender.com/api/todos/id}/ Description:Delete a todo
 
 
 🌐 Live Links
 
-Frontend (Github repo): https://github.com/Reige06/FastAPI_frontend
-Frontend page (Github page) : https://reige06.github.io/FastAPI_frontend/
-Backend (Render): https://fastapi-backend-f2k4.onrender.com/docs
+1. Frontend (Github repo): https://github.com/Reige06/FastAPI_frontend
+2. Frontend page (Github page) : https://reige06.github.io/FastAPI_frontend/
+3. Backend (Render): https://fastapi-backend-f2k4.onrender.com/docs
